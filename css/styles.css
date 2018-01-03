@@ -1,0 +1,17 @@
+.flashy {
+  font-style:italic;
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  font-family: cursive;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.best {
+  font-family: fantasy;
+  font-size: 20px;
+  text-shadow: 3px 3px 3px #000;
+}
